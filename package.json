@@ -1,0 +1,19 @@
+{
+  "name": "express-passport-jwt",
+  "version": "1.0.0",
+  "description": "Up and Running Api by passport_JWT",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies":{
+    "express":"*",
+    "body-parser":"*",
+    "passport-jwt":"*",
+    "passport":"*",
+    "jsonwebtoken":"*"
+  },
+  "author": "Maryam",
+  "license": "ISC"
+}
